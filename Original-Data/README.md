@@ -1,4 +1,4 @@
-# Original Data - QIIME
+# Original Data - 	UNITE QIIME release for Fungi
 Three sets of QIIME files are released, corresponding to the SHs resulting from clustering at the 3% distance (97% similarity) and 1% distance (99% similarity) threshold levels. The third set of files is the result of a dynamic use of clustering thresholds, such that some SHs are delimited at the 3% distance level, some at the 2.5% distance level, some at the 2% distance level, and so on; these choices were made manually by experts of those particular lineages of fungi. The syntax is the same throughout the three sets of files.
 
 Each SH is given a stable name of the accession number type, here shown in the FASTA file of the dynamic set:
