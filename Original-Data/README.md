@@ -3,7 +3,7 @@ Three sets of QIIME files are released, corresponding to the SHs resulting from 
 
 Each SH is given a stable name of the accession number type, here shown in the FASTA file of the dynamic set:
 
-\>SH099456.05FU_FJ357315_refs
+'>SH099456.05FU_FJ357315_refs
 CACAATATGAAGGCGGGCTGGCACTCCTTGAGAGGACCGGC…
 
 SH099456 = accession number of the SH
