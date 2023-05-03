@@ -1,7 +1,5 @@
 # Data-Analysis
 
-Steps taken
-1. Collecting the data
-2. Cleaning the data
-3. Analyzing the data
-4. Interpreting results and applying them to the data
+Files contain:
+Cleaning: Collecting and cleaning the data [COMPLETE]
+Analysis: Analyzing the data, interpreting results and applying them to the data [NOT YET COMPLETE, STILL OPEN QUESTIONS LEFT]
