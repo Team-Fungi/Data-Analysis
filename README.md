@@ -2,4 +2,5 @@
 
 Files contain:
 - Cleaning: Collecting and cleaning the data [COMPLETE]
-- Analysis: Analyzing the data, interpreting results and applying them to the data [NOT YET COMPLETE, STILL OPEN QUESTIONS LEFT]
+- Analysis: Analyzing the data, interpreting results [NOT YET COMPLETE, STILL OPEN QUESTIONS LEFT]
+- Preparation: applying the conclusions from the analysis to the data [NOT YET COMPLETE, STILL OPEN QUESTIONS LEFT]
