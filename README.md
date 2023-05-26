@@ -1,6 +1,3 @@
-# Data-Analysis
+# Data Preparation
 
-Files contain:
-- Cleaning: Collecting and cleaning the data [COMPLETE]
-- Analysis: Analyzing the data, interpreting results [NOT YET COMPLETE, STILL OPEN QUESTIONS LEFT]
-- Post analysis processing: applying the conclusions from the analysis to the data [NOT YET COMPLETE, STILL OPEN QUESTIONS LEFT]
+(Needs to be updated and streamlined with the thesis)
